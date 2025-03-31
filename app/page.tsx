@@ -59,8 +59,8 @@ export default function Home() {
               >
                 <Ghost className="w-4 h-4 animate-float" />
                 View My Work
-          </a>
-          <a
+              </a>
+              <a
                 href="#contact"
                 className="rounded-full border border-red-900/30 px-6 py-3 text-sm font-vt323 hover:bg-red-900/20 transition-colors flex items-center gap-2 hover-float"
               >
@@ -89,7 +89,7 @@ export default function Home() {
               understand and adapt to their environment.
             </p>
             <p className="text-lg text-zinc-300 font-vt323">
-              When I'm not conjuring AI models or crafting web applications, I'm exploring the intersection of technology and the supernatural,
+              When I&apos;m not conjuring AI models or crafting web applications, I&apos;m exploring the intersection of technology and the supernatural,
               finding ways to make the digital world more alive and responsive.
             </p>
           </div>
@@ -390,7 +390,7 @@ export default function Home() {
               </button>
             </form>
           </div>
-    </div>
+        </div>
       </section>
     </>
   );
