@@ -1,6 +1,5 @@
-import Image from "next/image";
 import Link from "next/link";
-import { Ghost, Skull, Code2, Mail, Brain, Database, Server, Network, Cpu, LineChart, Shield, Zap, Code, GitBranch, Cloud, Lock, Moon, Sun, Flame, ArrowRight, HomeIcon, MessageSquare, Eye, Mic } from "lucide-react";
+import { Ghost, Skull, Code2, Mail, Brain, Database, Server, Network, Cpu, LineChart, Zap, Code, GitBranch, Cloud, Lock, ArrowRight, HomeIcon, MessageSquare, Eye, Mic } from "lucide-react";
 
 export default function Home() {
   return (
